@@ -1,0 +1,67 @@
+FileName,ClassId,SignName
+20_1.jpg,0,Speed limit (20miles/h)
+20_2.jpg,0,Speed limit (20miles/h)
+30_1.jpg,1,Speed limit (30miles/h)
+30_2.jpg,1,Speed limit (30miles/h)
+30_3.jpg,1,Speed limit (30miles/h)
+30_4.jpg,1,Speed limit (30miles/h)
+30_5.jpg,1,Speed limit (30miles/h)
+30_6.jpg,1,Speed limit (30miles/h)
+30_7.jpg,1,Speed limit (30miles/h)
+40_1.jpg,100,Speed limit (40miles/h)
+40_2.jpg,100,Speed limit (40miles/h)
+ahead_1.jpg,35,Ahead only
+ahead_2.jpg,35,Ahead only
+ahead_3.jpg,35,Ahead only
+ahead_4.jpg,35,Ahead only
+ahead_5.jpg,35,Ahead only
+ahead_6.jpg,35,Ahead only
+giveway_1.jpg,101,Give Way
+giveway_2.jpg,101,Give Way
+heavy_turn_lt_1.jpg,102,Heavry vehicle turn left
+heavy_turn_rt_1.jpg,103,Heavry vehicle turn right
+hump_1.jpg,22,Bumpy road
+junk_1.jpg,999,junk
+junk_2.jpg,999,junk
+no_entry_1.jpg,17,No entry
+no_entry_2.jpg,17,No entry
+no_entry_3.jpg,17,No entry
+no_entry_4.jpg,17,No entry
+no_entry_5.jpg,17,No entry
+no_entry_6.jpg,17,No entry
+no_entry_7.jpg,17,No entry
+no_entry_8.jpg,17,No entry
+no_entry_9.jpg,17,No entry
+no_heavy_1.jpg,104,No heavy vehicle
+no_loading_1.jpg,105,No loading
+no_loading_2.jpg,105,No loading
+no_lt_1.jpg,106,No left turn
+no_lt_2.jpg,106,No left turn
+no_rt_1.jpg,107,No right turn
+no_rt_2.jpg,107,No right turn
+no_through_1.jpg,108,No through road
+no_through_2.jpg,108,No through road
+ow_lt_1.jpg,109,One way turn left only
+ow_lt_2.jpg,109,One way turn left only
+ow_lt_3.jpg,109,One way turn left only
+ow_rt_1.jpg,110,One way turn right only
+ow_rt_2.jpg,110,One way turn right only
+parking_1.jpg,111,Parking
+parking_2.jpg,111,Parking
+restriction_end_1.jpg,112,Restriction end
+restriction_end_2.jpg,112,Restriction end
+restriction_end_3.jpg,112,Restriction end
+restriction_end_5.jpg,112,Restriction end
+restriction_end_6.jpg,112,Restriction end
+roundabout_1.jpg,113,Round about
+roundabout_2.jpg,113,Round about
+roundabout_ahead_1.jpg,114,Round about ahead
+roundabout_ahead_2.jpg,114,Round about ahead
+texaco_1.jpg,998,Texaco!
+texaco_2.jpg,998,Texaco!
+tfl_1.jpg,997,TFL sign
+tfl_2.jpg,997,TFL sign
+turn_left_1.jpg,34,Turn left ahead
+turn_left_2.jpg,34,Turn left ahead
+two_way_1.jpg,115,Two way road
+two_way_ahead_1.jpg,116,Two way road ahead
